@@ -1,0 +1,13 @@
+.DS_Store
+data/photo/*/
+data/n2/*.perf
+data/n2/*.tmp
+*.swp
+misc/cron/logs/*.log
+\#*\#
+.\#*
+logs/
+misc/cron/logs
+dbbk
+starman.pid
+*~

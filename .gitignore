@@ -1,3 +1,7 @@
+.gitignore
+http_query.pm
+http_util.pm
+main.pl
 .DS_Store
 data/photo/*/
 data/n2/*.perf
